@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heinrich26
 - 👀 I’m interested in computer science and programming ;)
-- 🌱 I’m currently learning at High School with a focus on informatics and maths!
+- 🌱 I’m currently studying at TU Berlin with a focus on informatics and maths!
 - 📫 You want to contact me? hendrik-horstmann@o2mail.de
 
 <!---
